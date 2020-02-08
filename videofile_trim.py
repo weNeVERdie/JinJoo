@@ -16,3 +16,4 @@ def assemble_cuts(cuts, outputfile):
 # cuts = [[5,10.5],[20,25],[30,35]]
 
 # assemble_cuts(cuts, "doggy.mp4")
+
